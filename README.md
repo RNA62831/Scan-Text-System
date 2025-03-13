@@ -76,12 +76,12 @@
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/Hit1000/ScanText.git
+   git clone https://github.com/RNA62831/Scan-Text-System.git
    ```
 
 2. Navigate to the project directory.
    ```bash
-   cd ScanText
+   cd Scan-Text-System
    ```
 
 3. Install dependencies.
